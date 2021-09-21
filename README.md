@@ -31,5 +31,10 @@ make lint
 make test
 make all
 ```
+## Github actions
+Create template to test on github actions
+[template](https://gist.github.com/josebarrientosq/b82b595e8a924ccee6b58a2a06a411df)
 
+
+## Printscreen
 ![imagen](https://user-images.githubusercontent.com/35469345/134110310-55887a44-b0f6-439e-8b8c-3e116bcb8ac5.png)
